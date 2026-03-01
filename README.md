@@ -91,6 +91,7 @@ Also, We hope that releasing this model/codebase helps the community to continue
 
 If you find this work useful for your research, please consider citing:
 
+```bibtex
 @article{lee2026erasing,
   title   = {Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech},
   author  = {Lee, Myungjin and Shin, Eunji and Lee, Jiyoung},
