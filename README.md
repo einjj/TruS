@@ -27,9 +27,10 @@ TruS steers identity-specific hidden activations to suppress target speakers whi
 ## 🔍 Dataset
 
 **plan to add info + explanation**
-- [Emilia](https://huggingface.co/datasets/amphion/Emilia-Dataset)
-- [LibriSpeech test-clean](https://www.openslr.org/12) 
-- [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D)
+You can download datasets from...
+- [Emilia](https://huggingface.co/datasets/amphion/Emilia-Dataset) : Seen opt-out dataset 
+- [LibriSpeech test-clean](https://www.openslr.org/12) : Unseen opt-out
+- [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D) : Test for Emotion presevation
 
 <br>
 
