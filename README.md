@@ -76,6 +76,7 @@ trus/
 * **Affiliation:** Department of Artificial Intelligence, Ewha Womans University  
 * **Paper:** [arXiv](https://arxiv.org/abs/2601.20481) 
 
+<br>
 
 ## ☘️ Acknowledgements
 **TruS** has been greatly inspired by the following amazing works and team :
@@ -83,3 +84,16 @@ trus/
 
 We would like to thank the open-source projects for providing the foundations and inspiration for our implementation.  
 Also, We hope that releasing this model/codebase helps the community to continue advancing open, responsible, and reproducible research.
+
+<br>
+
+## 📖 Citation
+
+If you find this work useful for your research, please consider citing:
+
+@article{lee2026erasing,
+  title   = {Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech},
+  author  = {Lee, Myungjin and Shin, Eunji and Lee, Jiyoung},
+  journal = {arXiv preprint arXiv:2601.20481},
+  year    = {2026}
+}
